@@ -38,11 +38,3 @@
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat)
 ![Pillow](https://img.shields.io/badge/Pillow-3776AB?style=flat&logo=python&logoColor=white)
 
-**Mathématiques**
-
-`Algèbre linéaire` · `Analyse` · `Probabilités` · `Optimisation` · `Arithmétique`
-
----
-
-
-*"L'algorithme, c'est la pensée avant le code."*
