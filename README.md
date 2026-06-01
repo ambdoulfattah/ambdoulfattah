@@ -14,7 +14,7 @@
 
 ##  À propos de moi
 
-- 🎓 2ème année cycle ingénieur — **ENSA Khouribga** (2024–présent)
+- 🎓 2ème année en ingénierie — **ENSA Khouribga** (2024–présent)
 - 💡 J'aime comprendre les choses en profondeur avant de les coder
 - 🏆 **1ère place** au Hackathon organisé par le Club Codex
 - 🔭 En recherche d'un **stage en R&D / recherche appliquée**
