@@ -12,18 +12,17 @@
 
 ---
 
-## 🧠 À propos de moi
+##  À propos de moi
 
 - 🎓 2ème année cycle ingénieur — **ENSA Khouribga** (2024–présent)
 - 💡 J'aime comprendre les choses en profondeur avant de les coder
 - 🏆 **1ère place** au Hackathon organisé par le Club Codex
 - 🔭 En recherche d'un **stage en R&D / recherche appliquée**
-- 🌱 En exploration : traitement d'images, algorithmique avancée, IA
 - 📍 Maroc
 
 ---
 
-## 🛠️ Stack technique
+##  Stack technique
 
 **Langages**
 
@@ -45,52 +44,5 @@
 
 ---
 
-## 📂 Projets
-
-### 🖼️ [Image Processing Toolkit](https://github.com/ambdoulfattah/traitement_image)
-Bibliothèque de traitement d'images implémentée **from scratch** en Python et MATLAB, sans librairies de haut niveau.
-
-Fonctionnalités : filtres, symétries, luminance, contraste, conversion RGB/Grayscale, concaténation d'images, génération de damiers.
-
-> `Python` `MATLAB` `NumPy` `PIL` `Matplotlib`
-
----
-
-### 📊 Projet Manipulation de Datasets *(privé)*
-Exploration et exploitation d'ensembles de données : chargement, nettoyage, analyse exploratoire, visualisation des résultats.
-
-> `Python` `Pandas` `Matplotlib`
-
----
-
-### 🏆 Hackathon — 1ère place · Club Codex
-Application de gestion des étudiants et de leurs résultats académiques développée en temps limité.
-
-Fonctionnalités : ajout/modification/suppression d'étudiants, gestion des notes, classement, statistiques et visualisation graphique.
-
-> `Développement rapide` `Travail en équipe` `Gestion de projet`
-
----
-
-## 🎯 Événements
-
-- **Dataverse 4.0** — Événement dédié à la data, l'IA et l'innovation technologique · Contributions en développement et automatisation
-
----
-
-## 📊 Stats GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ambdoulfattah&show_icons=true&theme=default&hide_border=true&count_private=true" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ambdoulfattah&layout=compact&hide_border=true" height="150"/>
-</p>
-
----
-
-## 🌍 Langues
-
-`Français — courant` · `Arabe — courant` · `Anglais — technique (documentation, lecture)`
-
----
 
 *"L'algorithme, c'est la pensée avant le code."*
