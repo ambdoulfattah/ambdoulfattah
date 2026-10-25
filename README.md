@@ -1,7 +1,7 @@
 <h1 align="center">Salut, je suis Ambdoulfattah 👋</h1>
 
 <p align="center">
-  Étudiant ingénieur à l'<strong>ENSA Khouribga</strong> · Passionné par les algorithmes, les maths appliquées et l'IA
+  Étudiant ingénieur à l'<strong>ENSA Khouribga</strong> · (MGSI)
 </p>
 
 <p align="center">
@@ -13,7 +13,6 @@
 ---
 
 
-##  Stack technique
 
 **Langages**
 
